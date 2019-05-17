@@ -1,5 +1,6 @@
 #!/bin/bash
 
+printf "Aakash has copied this"
 apiappname=ShoeCoAPI$(openssl rand -hex 5)
 
 printf "Setting username and password for Git ... (1/7)\n\n"
